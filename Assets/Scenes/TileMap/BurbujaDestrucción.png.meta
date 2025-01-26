@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: a03f6eaeb2922ff41bf5ad638ff92df2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2343669467796523903
+    second: "BurbujaDestrucci\xF3n_0"
+  - first:
+      213: -889578850447676050
+    second: "BurbujaDestrucci\xF3n_1"
+  - first:
+      213: 8935059556822319787
+    second: "BurbujaDestrucci\xF3n_2"
+  - first:
+      213: -7958898992944858976
+    second: "BurbujaDestrucci\xF3n_3"
+  - first:
+      213: 5091335834833779965
+    second: "BurbujaDestrucci\xF3n_4"
+  - first:
+      213: -4220837779520288849
+    second: "BurbujaDestrucci\xF3n_5"
+  - first:
+      213: -1446165053993215217
+    second: "BurbujaDestrucci\xF3n_6"
+  - first:
+      213: 4637359751933613617
+    second: "BurbujaDestrucci\xF3n_7"
+  - first:
+      213: 3978413634129311843
+    second: "BurbujaDestrucci\xF3n_8"
+  - first:
+      213: 3119895114843217385
+    second: "BurbujaDestrucci\xF3n_9"
+  - first:
+      213: 8999265520948931410
+    second: "BurbujaDestrucci\xF3n_10"
+  - first:
+      213: 6560907447395626612
+    second: "BurbujaDestrucci\xF3n_11"
+  - first:
+      213: -4614519286145597380
+    second: "BurbujaDestrucci\xF3n_12"
+  - first:
+      213: -5981402504624315944
+    second: "BurbujaDestrucci\xF3n_13"
+  - first:
+      213: -5900799712360271786
+    second: "BurbujaDestrucci\xF3n_14"
+  - first:
+      213: 6931801284192028194
+    second: "BurbujaDestrucci\xF3n_15"
+  - first:
+      213: 3023409148732754347
+    second: "BurbujaDestrucci\xF3n_16"
+  - first:
+      213: -5786452638887343446
+    second: "BurbujaDestrucci\xF3n_17"
+  - first:
+      213: 4668700714166166190
+    second: "BurbujaDestrucci\xF3n_18"
+  - first:
+      213: 3204302062841515882
+    second: "BurbujaDestrucci\xF3n_19"
+  - first:
+      213: 1621921571757179313
+    second: "BurbujaDestrucci\xF3n_20"
+  - first:
+      213: 7051886325272549004
+    second: "BurbujaDestrucci\xF3n_21"
+  - first:
+      213: 7042862641120185538
+    second: "BurbujaDestrucci\xF3n_22"
+  - first:
+      213: -8172150306382825123
+    second: "BurbujaDestrucci\xF3n_23"
+  - first:
+      213: -4618956763652245036
+    second: "BurbujaDestrucci\xF3n_24"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "BurbujaDestrucci\xF3n_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bc0f2b6f2668020800000000000000
+      internalID: 2343669467796523903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BurbujaDestrucci\xF3n_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dad5bafb497a3f0800000000000000
+      internalID: -889578850447676050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BurbujaDestrucci\xF3n_2"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba28a53b355bffb70800000000000000
+      internalID: 8935059556822319787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BurbujaDestrucci\xF3n_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8be42b88f4c8190800000000000000
+      internalID: -7958898992944858976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BurbujaDestrucci\xF3n_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935e402f402ecff4e9d12f4696fa29e4
+      internalID: 5091335834833779965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BurbujaDestrucci\xF3n_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eb5a137123e72459057f4cf90f18ef
+      internalID: -4220837779520288849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d31ec59ef015d574c924ea879b6bd497
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "BurbujaDestrucci\xF3n_0": 2343669467796523903
+      "BurbujaDestrucci\xF3n_1": -889578850447676050
+      "BurbujaDestrucci\xF3n_2": 8935059556822319787
+      "BurbujaDestrucci\xF3n_3": -7958898992944858976
+      "BurbujaDestrucci\xF3n_4": 5091335834833779965
+      "BurbujaDestrucci\xF3n_5": -4220837779520288849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
